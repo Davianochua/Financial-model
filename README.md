@@ -10,8 +10,8 @@
 
 
 ## 🎯 Key Features:
-- **Historical Analysis** (2019-2021): Revenue, costs, debt, assets, equity + ROA/ROE/DER ratios
-- **7-Year Projections**: Growth-based forecasting using historical trends
+- **Historical Analysis**: Revenue, costs, debt, assets, equity + ROA/ROE/DER ratios
+- **X-Year Projections**: Growth-based forecasting using historical trends
 - **Performance Diagnostics**: Automated health score (0-7) across 7 financial metrics to evaluate overall company financial health
 - **Full DCF Valuation**: FCF calculation, WACC discounting (10%), terminal value (3% growth), intrinsic value per share
 - **Margin of Safety**: Buy-below prices at 10%/20%/30% discounts
