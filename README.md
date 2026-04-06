@@ -18,13 +18,13 @@
 - **Value Breakdown**: Terminal vs. explicit forecast contribution analysis
 
 ## 📊 Sample Output
-Combined Dataset - Historical Data + Projected Data
-OVERALL HEALTH SCORE: X/7
-VERDICT: Company is in overall X health
-Intrinsic Value per share: $XX.XX
-10/20/30% Margin of safety: Buy below $XX.XX
-Projection value contributes: XX% of value
-Terminal value contributes: XX% of value
+- Combined Dataset - Historical Data + Projected Data
+- OVERALL HEALTH SCORE: X/7
+- VERDICT: Company is in overall X health
+- Intrinsic Value per share: $XX.XX
+- 10/20/30% Margin of safety: Buy below $XX.XX
+- Projection value contributes: XX% of value
+- Terminal value contributes: XX% of value
 
 
 ## 🚀 Quick Start
