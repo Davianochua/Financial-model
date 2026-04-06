@@ -4,7 +4,7 @@
 - Automates a Company Financial Health Metric rated out of 7 for financial evaluation
 
 ## Notes: 
-- Currently only an infant student project - Other important features in an effective DCF Model such as sensitivity are not integrated yet.
+- Currently only an infant student project - Other important features in an effective DCF Model such as sensitivity are not integrated yet + Possibility of coding mistakes or presentations
 - Inputs currently must be edited into the code, Inputs system will be added in the future.
 - All assumptions are automatically built in, and are editable
 
